@@ -1,10 +1,10 @@
+/*****************TAG SELECTOR************/
 body
 {
     background-color: #eaf6f6;
 
 
 }
-
 hr
 {
 
@@ -16,7 +16,7 @@ hr
      
 } 
 h1
-{
+{ 
     color:#66bfbf
     ;
 }
@@ -24,3 +24,17 @@ h3
 {
     color: #66bfbf;
 }
+img:hover
+{
+    border-radius: 100%;
+
+}
+
+
+/*****************class SELECTOR************/
+.profilepic
+{
+    border-radius: 100%;
+}
+
+/*****************ID SELECTOR************/
